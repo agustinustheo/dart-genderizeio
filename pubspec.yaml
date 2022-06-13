@@ -1,6 +1,6 @@
 name: genderizeio
 description: A Dart API wrapper for Genderize.io
-version: 1.0.0
+version: 1.0.1
 
 repository: https://github.com/agustinustheo/dart-genderizeio
 
